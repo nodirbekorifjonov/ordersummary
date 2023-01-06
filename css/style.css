@@ -194,7 +194,7 @@ h1 {
   color: #1f2e55;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 610px) {
   body {
     font-size: 1.5rem;
     line-height: 1.67;
